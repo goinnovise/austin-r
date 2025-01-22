@@ -7,20 +7,20 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Loren Anderson
-  tagline: Principal Consultant - Senior Software Engineer, TPM, BA
-  avatar: profile.png
+  name: Austin Reynolds
+  tagline: Full Stack Software Engineer - Mobile and Web
+  avatar: profile.jpg
 
   # Sidebar links
-  email: loren@goinnovise.com
-  phone: 425-941-5979
-  website: goinnovise.com
-  linkedin: loren-anderson
-  github: TheOfficialLoren
+  email:
+  phone:
+  website:
+  linkedin: austin-reynolds-b4495613b
+  github: 
   gitlab:
   bitbucket:
   twitter:
-  stack-overflow: 1121638/lorengphd
+  stack-overflow: 
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -29,150 +29,83 @@ sidebar:
   #level: Native
 
   interests:
-    - item: Photography
+    - item: Live Music
       link:
 
-    - item: Fitness
+    - item: Creating/Producing Music
       link:
 
-    - item: Travel
+    - item: Playing Guitar or any instrument he can get his hands on
       link:
 
-    - item: Gaming
+    - item:
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Loren is a Senior Software Engineer with 10+ years of experience successfully
-    leading teams and educating businesses on development methodologies and best
-    practices. With his extensive knowledge of a wide array of software technologies,
-    languages and frameworks, Loren has assumed many different roles throughout his
-    career such as Systems Architect, Project Manager and Business Analyst, while
-    simultaneously programming and remaining a Senior Software Engineer. He excels
-    at quickly understanding the architectural landscape of businesses to advise and
-    bridge the gap between technical and non-technical teams to achieve business
-    goals, which is why he continues to be effective in the consulting industry.
+    Austin is a highly skilled software engineer with 12 years of experience, specializing in modern React Native mobile app development. His expertise spans front-end UI/UX, backend integration, and implementing third-party services for seamless functionality. Austin's hands-on experience extends beyond frameworks like Expo, working directly with Xcode, Android Studio, and AWS to deliver scalable, high-performance mobile solutions. He is driven by a passion for innovation, leveraging modern development tools and methodologies to consistently raise the bar for application performance and user experience.
 
 education:
-  - degree: General Studies - Focus on Business
-    university: Western Washington University
+  - degree: Full Stack Web Development Bootcamp, April 2017 to October 2017
+    university: Denver University
 
 experiences:
-  - role: Principal Consultant, President
-    time: November 2019 - Present
-    company: Innovise Technologies
-    location: Bellevue, WA
+  - role: Lead React Developer
+    time: August 2023 – June 2024
+    company: USI (ManPower Contractor)
+    location: Denver, CO (Remote)
     details: |
-      As owner and Principal Consultant of Innovise, Loren is responsible for serving clients across many industries in an array of ways. Roles that Loren serves for clients include CTO, Software Development Lead, and Software Engineer. He partners with small and medium-sized organizations to understand business goals, challenges, and needs thens presents creative and innovative solutions. Day-to-Day oversight and responsibilities include, but are not limited to architecting software, managing teams, and conducting business analyses.
+      Successfully launched two brand-new products.
+      Provided PR reviews, code suggestions, and mentorship to other developers.
+      Identified bugs and resolved errors in unit tests, providing meaningful solutions.
+      Developed interactive charts, forms, and inputs using React.
+      Streamlined and decluttered codebase to improve composability and testability.
 
-      _Accomplishments_
-        - Saved client 60% on their monthly cost on monthly Azure spend by containerizing applications, moving scheduled processes to serverless functions, removing uneeded VM's, and more.
-        - Refactored and rebuilt slow and monolithic software systems built in .Net with C# to increase system speed and performance. Increased response time of systems by up to 75% by utilizing WebSockets throughout the system.
-        - Designed, built, deployed, and operated complete software systems utilizing NodeJs and React hosted in Firebase and integrated with many external systems
-        - Helped the client organize a software development team and put Agile processes in place utilizing Atlassian tools.         
-        - Adopted existing, but abandoned VueJs web application and rebuilt to new specifications of the client.
-
-  - role: Senior Software Engineer
-    time: May 2019 - January 2020
-    company: Mercedes Benz, Research and Development, North America (on contract by iTrellis, LLC)
-    location: Seattle, WA
+  - role: Full Stack Lead Mobile Development Engineer/DevOps
+    time: December 2020 – February 2021
+    company: Sircles
+    location: Denver, CO (Remote)
     details: |
-      As the Senior Software Engineer Loren was responsible for working on two projects
-      simultaneously for multiple stakeholders within the client's organization. One
-      project focused on creating and integrating the API that provides data to all client
-      vehicle head units worldwide, aligning with changing laws &amp; regulations. The 
-      second project was solving Azure Active Directory syncing issues for a 
-      subsection of the client's employees, requiring the creation of APIs and tasks 
-      to sync the Active Directory databases. 
+      Played a pivotal role in the development and optimization of the Sircles React Native mobile app, gaining in-depth experience beyond frameworks like Expo.
+      Worked directly with Xcode and Android Studio to manage and enhance app performance, build processes, and deployment pipelines.
+      Designed and implemented CI/CD pipelines using Fastlane and GitHub Actions, streamlining the app's release process across AWS infrastructure.
+      Led backend development with a modular fractal-based architecture, ensuring fast iterations, minimal merge conflicts, and efficient debugging.
+      Developed a comprehensive GraphQL schema tailored to the mobile app's requirements, improving data handling and integration.
+      Integrated third-party services to expand the app's capabilities and elevate the user experience.
+      Created AWS OpenSearch dashboards for effective server-side debugging and monitoring, directly benefiting the app's reliability.
+      Provided mentorship, code reviews, and leadership to a team of five developers, ensuring the delivery of a high-quality, scalable React Native application.
 
-      _Accomplishments_
-        -	Learned the clients operations procedures and used Docker & Kubernetes to stand
-        up both systems in Azure, resulting in successful systems integrations.
-        - Supported teams based out of Europe including during off-hours releases
-        for troubleshooting, debugging and general needs.
-        - Successfully delivered both projects ahead of projected timeline.
-        - At the request of the client, presented and demonstrated project work at meetings.
+#  - role: Front End Web Developer
+#    time: December 2020 – February 2021
+#    company: Discount Tire-(IBM Contractor)
+#    location: Denver, CO
+#    details: |
+#      Addressed high-priority Jira tickets, focusing on critical defect resolutions.
+#      Implemented a significant portion of analytics tracking code in collaboration with other developers.
+#      Reviewed PRs and provided code suggestions and solutions for team members.
 
-  - role: Senior Software Engineer
-    time: Oct 2019 - May 2019
-    company: CBRE (on contract by iTrellis, LLC)
-    location: Dallas, TX
+  - role: Lead Web Developer and Cloud Architect
+    time: March 2018 – October 2020
+    company: Tribal App
+    location: Denver, CO
     details: |
-      This project was for a client based in Dallas, Texas and required a combination
-      of remote and on-site work. Loren was tasked with working within the team to
-      produce an angular-driven internal website, featuring real-time dashboards that
-      displayed performance data an analytics used by the company's sales team.
-      Throughout this project, Loren played an integral role in solving front-end
-      and back-end projects simultaneously for the website, demonstrating the
-      benefits and efficiencies of resources that can execute both types of 
-      software design.
+      Led a team of five to develop a custom web-based admin portal and mobile app platform within a year.
+      Designed and implemented multi-tenant database architecture using PostgreSQL.
+      Built a custom Node.js and GraphQL backend alongside a React-based front-end portal.
+      Leveraged AWS resources, including EC2, RDS, Cognito, and Pinpoint, for cloud architecture.
+      Oversaw end-to-end data-driven app development and cloud engineering.
 
-      _Accomplishments_
-        - The only member on the project team, working on front-end and back-end parts of the code increase production and decrease dependencies.
-        - Taught the client's team software development best practices such as git version control.
-        - Adopted Angular 7, Postgres and GoLang within a couple of days to meet the client's expectations.
-
-  - role: Account Lead & Senior Software Engineer
-    time: Oct 2018 - Oct 2019
-    company: Crestron (on contract by iTrellis, LLC)
-    location: Rockleigh, NJ
+  - role: Lead Web Developer
+    time: October 2017 – December 2018
+    company: MODSquad
+    location: Castle Rock, CO
     details: |
-      As a Senior Software Engineer, Loren assisted in the overhaul and deployment of
-      the client’s primary customer facing website and back-end tools to support
-      content changes and solve for multiple major performance issues.  He also provided
-      post-deployment support and continued feature development. Throughout this
-      process Loren also taught software development best practices and facilitated
-      the implementation of these processes, allowing the client to be self-sufficient 
-      post-completion of the project. He was also responsible for helping with 
-      code reviews, release management, Azure Dev Ops functions and process documentation.
-
-      _Accomplishments_
-        -	Responsible for building and maintaining iTrellis's relationship with the
-        client as the Account Lead.
-        - Supported the release of enterprise level Azure hosted website.
-        - Performed successful integrations including CDN and Elastic Search.
-        - Improved site performance by reducing database calls on each pages from
-        120 calls per page to 2, making Elastic Search more efficient.
-        - Quickly learned the company’s architectural landscape to make an immediate
-        impact on the client's team.
-        - As the Release Manager, Loren planned and executed the back-end tool
-        solution for content managers.
-
-  - role: Project Manager &amp; Senior Software Engineer
-    time: Dec 2017 - Oct 2019
-    company: Capstone Technologies (on contract by iTrellis, LLC)
-    location: Vancouver, WA
-    details: |
-      Played an integral role in transforming the client with no software change 
-      management processes into a SAFe organization, implementing Microsoft Team
-      Foundation Server as the team support technology. Acted as the Scrum Master,
-      supporting the team in the adoption of  Agile principles and continuous
-      development techniques. Produced metrics to identify strong and weak points
-      in the software creation process.
-        
-      _Accomplishments_
-        -	Organized the company into 3 functioning Scrum teams.
-        - Taught 9 developers and 5+ business analysts how to utilize the Scrum process.
-        - Created a CI/CD pipeline to increase productivity and quality assurance.
-
-  - role: Team Lead &amp; Senior Software Engineer
-    time: Mar 2011 - Jun 2016
-    company: ATG Stores / Lowe's
-    location: Kirkland, WA
-    details: |
-      Loren was responsible for the redesign of the cart and checkout pages of
-      e-commerce home improvement companies ATGStores.com and Lowe's Canada. This
-      integral redesign ensured optimal performance for customers purchasing on
-      the website. During this time, Loren also built and lead a team of 6 software
-      engineers to maintain and add additional features to the cart and checkout
-      pages of the site.
-
-      _Accomplishments_
-        - Integral part in helping meet and comply with PCI standards.
-        - Designed and created the credit card value using key encryption technology.
-        - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
-        - Implemented and lead the first team in the company to adopt Scrum methodologies.
+      Led a team of five to develop a customized e-commerce platform in six months.
+      Increased client product sales by 15% during Black Friday, achieving record profits.
+      Conducted code reviews and mentorship, enhancing team productivity and code quality.
+      Led daily SCRUM stand-ups to optimize project status tracking and task prioritization.
+      Improved team velocity by 30% by aligning tasks with individual strengths and weaknesses.
 
 projects:
   title: Projects
@@ -223,16 +156,21 @@ publications:
       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  - title: Languages
-    value: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
-  - title: Frameworks
-    value: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, jQuery, Jekyll"
-  - title: Tools
-    value: "Windows, Mac OS, Redux, Visual Studio, VS Code, Agile, Scrum, SAFe"
-  - title: Operations
-    value: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
-  - title: Other
-    value: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
+  - title: Programming Languages & Frameworks
+    value: |
+      React, React-Native, Redux, GraphQL, Node.js, Express.js, Knex.js, Sequelize, Jest, React Testing Library, JavaScript (ES5-ES6), HTML5, CSS3, Sass/Scss, JQuery, Babel
+
+  - title: Database & Data Management
+    value: |
+      PostgreSQL, MySQL, Database Management
+
+  - title: DevOps & Cloud
+    value: |
+      AWS Cloud Solutions, Webpack, Grunt, Gulp, Command Line, Git
+
+  - title: Professional Skills
+    value: |
+      Problem Solving, Code Optimization, Mentoring/Teaching, Leadership, Collaboration, Critical Thinking
 
 # Examples section. Useful for UX designers or other visual additions
 showExamples: false
